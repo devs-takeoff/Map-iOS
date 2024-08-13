@@ -1,0 +1,6 @@
+framework module Pods_jjapp2_jjapp2UITests {
+  umbrella header "Pods-jjapp2-jjapp2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
